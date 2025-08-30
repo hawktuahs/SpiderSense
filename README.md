@@ -177,11 +177,6 @@ SmartSense is designed for future integration with:
 - [**Impact Assessment**](./docs/IMPACT.md) - India-specific use cases
 - [**Model Card**](./docs/MODEL_CARD.md) - Performance, limitations, risks
 
-## 🎬 Demo & Judge Packet
-
-**2-Minute Demo**: [./JUDGE_PACKET/demo_script.md](./JUDGE_PACKET/demo_script.md)
-
-**Live Demo**: Upload → Configure → Forecast → Anomalies → Export
 
 **Acceptance Tests**:
 1. ✅ 48h forecast with 90% PI + weather overlay
