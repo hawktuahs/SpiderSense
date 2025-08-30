@@ -206,6 +206,3 @@ MIT License - Free for commercial and non-commercial use.
 
 Built for India's Smart Cities Mission and Net-Zero goals. Inspired by the need for accessible, scalable energy intelligence in resource-constrained environments.
 
----
-
-**Ready to transform your energy management?** Start with our [10-minute quickstart](./docs/QUICKSTART.md) or try the [live demo](https://smartsense-demo.hf.space).
